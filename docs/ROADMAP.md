@@ -7,7 +7,8 @@
 - No outbound integrations
 
 ## Phase 2 — Data and model upgrade
-- Replace synthetic data with vetted remote sensing and hydrology features
+- Replace synthetic demo with vetted remote sensing and hydrology features (Sentinel-2, GPM, DEM/HAND, HydroRIVERS)
+- Add exposure features from population and settlement datasets (HRSL, WorldPop) for prioritization
 - Add calibration and spatial cross validation
 - Add human in the loop review for thresholds and messages
 
