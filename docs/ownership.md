@@ -1,4 +1,4 @@
 # Ownership
-
-**Product owner**: CLIMAX-EWS team (contact to be added in repository).  
-**Accountability**: Maintainers approve changes via PR; SECURITY.md documents reporting workflow.
+The Climax-EWS solution is owned and maintained by the Climax-EWS Project Team.
+Lead maintainer: Yongjoon Hwang (calismaster98@gmail.com)
+Repository: https://github.com/calismaster98/climax-ews
