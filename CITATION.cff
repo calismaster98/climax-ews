@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "CLIMAX-EWS (no-UXO)"
+version: "1.1.2"
+date-released: "2025-08-31"
+authors:
+  - family-names: "Team CLIMAX"
+    given-names: "EWS"
+repository-code: "https://example.org/placeholder"  # replace with real repo
+license: "Apache-2.0"

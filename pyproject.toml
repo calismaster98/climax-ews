@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=65", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "climax-ews"
+version = "1.1.2"
+description = "Early flood warning demo (no-UXO)"
+authors = [{name = "CLIMAX-EWS Team"}]
+readme = "README.md"
+license = {text = "Apache-2.0"}
+requires-python = ">=3.9"
+dependencies = [
+    "numpy>=1.23",
+    "pandas>=1.5",
+    "scikit-learn>=1.1",
+    "pyyaml>=6.0",
+    "matplotlib>=3.7"
+]
+
+[project.urls]
+homepage = "https://example.org/placeholder"

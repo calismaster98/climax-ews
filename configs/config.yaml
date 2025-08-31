@@ -1,0 +1,19 @@
+data:
+  features_csv: data/demo_features.csv
+
+model:
+  type: random_forest
+  n_estimators: 120
+  random_state: 42
+  cv_folds: 3
+
+alerts:
+  top_n: 30
+  threshold: null         # if set, use this probability threshold; else use top_n
+  languages: ["EN", "KM"]
+  use_llm: false          # LLM disabled by default (template fallback always available)
+
+runtime:
+  timestamp_utc: null     # if null, pipeline fills with now()
+  output_dir: alerts
+  progress: false
