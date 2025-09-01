@@ -1,7 +1,7 @@
 # CLIMAX-EWS (submission no-UXO)
 
 Early flood Early Warning System (EWS) **without UXO/landmine scope** for DPG submission demo.
-![Uploading pipeline_readme.png…]()
+<img width="1272" height="2385" alt="image" src="https://github.com/user-attachments/assets/b5bc080d-e7fa-4bc7-ab66-b44bd16fab2e" />
 
 
 ## Quick start (Colab)
